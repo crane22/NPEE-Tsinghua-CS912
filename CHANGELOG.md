@@ -2,6 +2,13 @@
 All notable changes to this project will be documented in this file.  
 The format is based on [Keep a Changelog](http://keepachangelog.com/) and this project adheres to [Semantic Versioning](http://semver.org/).  
 -> I'm here.
+## [0.1.3] - 2022-10-23
+三天没更新了。  
+不是我跑路了。是感冒了。没有很严重，但对专注复习来说确实是一个很大的dubuff：脑子里总感觉有一团云雾在妨碍思考；盯着屏幕没一会就感到疲乏；每天至少睡10h+才能休息过来；很累。  
+哦，虽然我确实想跑路了。  
+我想我大概率是要二战了。  
+以及，为了应付GitHub的LFS存储限制，我最终还是被迫把原repo删掉了，重新开了一个————我真的不太会用git。  
+
 ## [0.1.2] - 2022-10-19
 今天又和毕设老师交流了本校AI院809的考试范围。毕设老师人很nice，把相关信息都和我简单说了说。  
 又一次和家里、信任的同学、和朋友们沟通了这个问题：我应该遵循理性放弃考912这个目标，转向更加现实的本校读研；还是坚持自己的理想，哪怕第一次初试只有二百多分？  
